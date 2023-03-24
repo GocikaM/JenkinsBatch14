@@ -7,4 +7,4 @@ public class Main {
 
         }
     }
-}https://github.com/GocikaM/JenkinsBatch14.git
+}
